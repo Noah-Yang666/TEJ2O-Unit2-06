@@ -1,7 +1,7 @@
 """
-Created by: Mr. Coxall
-Created on: Sep 2020
-This module is a Micro:bit MicroPython program
+Created by: Noah
+Created on: Feb 2026
+This module is a Micro:bit MicroPython program that turns a light on and off.
 """
 
 from microbit import *
