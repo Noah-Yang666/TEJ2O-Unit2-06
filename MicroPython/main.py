@@ -10,7 +10,7 @@ display.clear()
 pin16.write_digital(0)
 display.show(Image.HAPPY)
 
-# on  and off
+# on and off
 while True:
     if button_a.is_pressed():
         pin16.write_digital(1)
